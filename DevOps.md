@@ -1,3 +1,3 @@
-DevOps Engineer
-SRE Engineer
-Platform Engineer
+1. DevOps Engineer
+2. SRE Engineer
+3. Platform Engineer
